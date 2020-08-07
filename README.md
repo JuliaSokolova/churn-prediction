@@ -108,3 +108,14 @@ Total difference: + 10, 546
 ## What affects the churn
 
 
+Factors affecting the churn rate with strongest correlation:
+- Average surge
+- Using luxury cars
+
+
+## Conclusion
+
+Moving on, we would suggest runnign our model monthly, while simultaniously training it further.
+We also suggest to look out for customers who chose luxury cars / more expensive rides.
+
+
